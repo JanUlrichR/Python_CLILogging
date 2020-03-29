@@ -1,0 +1,21 @@
+[INFO] 2020-03-28 16:15:59,973 - Started at 1585408559.972867
+[INFO] 2020-03-28 16:15:59,973 - -------------------Parser Action-----------------------
+[INFO] 2020-03-28 16:15:59,975 - Calcing volume of sphere with radius 1
+[INFO] 2020-03-28 16:15:59,975 - Volume is 4.1887902047863905
+[INFO] 2020-03-28 16:15:59,976 - -------------------Calcing Action-----------------------
+[INFO] 2020-03-28 16:15:59,976 - Calcing volume of sphere with radius 5
+[INFO] 2020-03-28 16:15:59,976 - Volume is 523.5987755982989
+[INFO] 2020-03-28 16:15:59,976 - Calcing volume of sphere with radius 0.2
+[INFO] 2020-03-28 16:15:59,976 - Volume is 0.03351032163829113
+[INFO] 2020-03-28 16:15:59,976 - Calcing volume of sphere with radius -4
+[WARNING] 2020-03-28 16:15:59,977 - Radius -4 was negative, return -1
+[INFO] 2020-03-28 16:15:59,977 - Calcing volume of sphere with radius Test
+[ERROR] 2020-03-28 16:15:59,977 - Test is not a valid radius, return -666
+[INFO] 2020-03-28 16:15:59,977 - -------------------All Log Types Action-----------------------
+[DEBUG] 2020-03-28 16:15:59,977 - Am i here ?
+[INFO] 2020-03-28 16:15:59,977 - Next time pls do this
+[WARNING] 2020-03-28 16:15:59,977 - Some problem occured, but its fine
+[ERROR] 2020-03-28 16:15:59,977 - Types did not match in ...
+[CRITICAL] 2020-03-28 16:15:59,977 - ICH BRENNNE
+[INFO] 2020-03-28 16:15:59,977 - -------------------On Program End-----------------------
+[INFO] 2020-03-28 16:15:59,977 - [runTime]: 0.0049991607666015625
